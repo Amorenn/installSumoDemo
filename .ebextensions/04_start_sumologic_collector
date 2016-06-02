@@ -1,0 +1,6 @@
+commands:
+      01_set_start_on_boot:
+       command: "sudo chkconfig collector on"
+       ignoreErrors: true
+      02_start_service_if_not_running:
+       command: "sudo service collector start"
