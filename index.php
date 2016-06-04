@@ -3,6 +3,6 @@
   <title>PHP Test</title>
  </head>
  <body>
- <?php echo '<p>install sumo2<p>'; ?> 
+ <?php echo '<p>trolololololol<p>'; ?> 
  </body>
 </html>
